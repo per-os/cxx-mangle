@@ -1,0 +1,7 @@
+[package]
+name = "cxx_mangle"
+version = "0.1.0"
+edition = "2024"
+license = "BSD-3-Clause"
+description = "Itanium C++ ABI based name mangling"
+repository = "https://github.com/per-os/cxx-mangle"
